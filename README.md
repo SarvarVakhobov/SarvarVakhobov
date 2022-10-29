@@ -1,4 +1,4 @@
-Hi, I'm Sarvarbek. You might recognize me as GitHub's mascot.
+Hi👋, I'm Sarvarbek. You might recognize me as GitHub's mascot.
 
 | Rank | Languages |
 |-----:|-----------|
