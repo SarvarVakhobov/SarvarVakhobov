@@ -19,8 +19,9 @@
   <a href="https://facebook.com/sarvar.vaxobov.77">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SarvarVakhobov?style=for-the-badge&logo=facebook&logoColor=white" alt=""/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=SarvarVakhobov&style=flat-square&color=blue" alt=""/>
+
 
 <br>
 <br>
@@ -38,4 +39,5 @@
 
 ## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/SarvarVakhobov/SarvarVakhobov/blob/output/github-contribution-grid-snake.gif)
+
 
