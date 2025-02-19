@@ -10,15 +10,15 @@
   <a href="https://linkedin.com/sarvar-vaxobov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/ya_habiybiy">
+  <a href="https://t.me/sarvarbek_vakhobov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://instagram.com/sarvar_vaxobov">
+<!--   <a href="https://instagram.com/sarvar_vaxobov">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://facebook.com/sarvar.vaxobov.77">
+  </a> -->
+<!--   <a href="https://facebook.com/sarvar.vaxobov.77">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+  </a> -->
 </div>
 <img src="https://komarev.com/ghpvc/?username=SarvarVakhobov&style=flat-square&color=blue" alt=""/>
 
