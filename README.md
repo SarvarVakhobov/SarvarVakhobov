@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="45%" height="auto" src="https://user-images.githubusercontent.com/72156168/130989446-dffc4c7e-3b3d-4177-a877-6c90e9d6e292.png" />
+  <img width="45%" height="auto" src="https://acibihar.co.in/wp-content/uploads/2023/02/shutterstock1914164533-1652959735-1536x1152.jpg" />
   </p>
 <h1 align="center">Hi 👋, I'm Sarvarbek Vakhobov</h1>
-<h3 align="center">A junior web developer and QA engineer from Uzbekistan</h3>
+<h3 align="center">QA engineer | Manual, Automation and Integration Tester from Uzbekistan</h3>
 <div id="badges">
   <a href="https://sarvarbek.uz">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
